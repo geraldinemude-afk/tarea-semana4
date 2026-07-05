@@ -1,0 +1,8 @@
+Es importante que las ocmundiades o iniciativas ciudadanas puedan construir
+herramientas tecnólogicas propias utilizando tecnologías abiertas como Node.js porque 
+esto va  a permitir que puedan satisfacer sus necesidades facilmente sin dependerde 
+software privados, por el contrari permite acceder a estas tecnologías de forma 
+gratuita poermitiendo que se pueuda aprender, enseñar y mejorar en conjunto. Pues
+estas tecnologías permiten desarrollar trabajos en colaboración, entonces, al una comunidad
+tener como desarrollar webs de forma colaborativa termina cumpliendo su objetivo
+de desarrollar strategia spara seguir garantizando el trabajo comuntiario.
